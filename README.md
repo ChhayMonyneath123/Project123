@@ -4,9 +4,3 @@
     - git add.
     - git commit -m "Inititialize project"
     - git push
-
-## Create new branch task1
-
-    - git branch task1 main
-    - git stash -u
-    - git co task1
