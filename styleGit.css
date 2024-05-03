@@ -76,7 +76,7 @@ body{
 .sidebar .navigation ul li a:hover .fa,
 .sidebar .navigation ul li a:active .fa,
 .sidebar .navigation ul li a:focus .fa{
-    color:#b3b3b3;
+    color: #46ccd6;
 }
 .sidebar .navigation ul li .fa{
     font-size: 15px;
@@ -85,5 +85,9 @@ body{
 .sidebar .navigation ul li a:hover .fa:hover,
 .sidebar .navigation ul li a:active .fa:active,
 .sidebar .navigation ul li a:focus .fa:focus{
-    color:#fff;
+    color:#46ccd6;
+}
+
+.btn-play{
+    border: none;
 }
