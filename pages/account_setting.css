@@ -1,0 +1,372 @@
+.fremovebg-preview-1 {
+  background: url('../assets/images/fremovebg_preview_2.png') 50% / cover no-repeat;
+  margin: 0 30px 2px 0;
+  width: 71px;
+  height: 76px;
+}
+.rhooo {
+  overflow-wrap: break-word;
+  font-family: 'Jolly Lodger';
+  font-weight: 400;
+  font-size: 64px;
+  color: #000000;
+}
+.container-6 {
+  display: flex;
+  flex-direction: row;
+
+}
+.support {
+  margin: 17px 35.3px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.download {
+  margin: 17px 46.7px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.ellipse-1 {
+  background: url('../assets/images/ellipse_1.jpeg') 50% / cover no-repeat;
+  width: 47px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 100%;
+}
+.container-16 {
+  margin: 12px 0 16px 0;
+  display: flex;
+  flex-direction: row;
+
+}
+.container-9 {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+
+}
+.account-setting-1 {
+  margin-bottom: 42px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.fremovebg-preview-2 {
+  background: url('../assets/images/fremovebg_preview_2.png') 50% / cover no-repeat;
+  margin-right: 34px;
+  width: 52.9px;
+  height: 56.2px;
+}
+.managing-your-plan {
+  margin: 17px 0 4.2px 0;
+  display: inline;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-12 {
+  margin-bottom: 49.4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+}
+.vector-8 {
+  margin-right: 38.1px;
+  width: 41.7px;
+  height: 41.7px;
+}
+.edit-your-profile {
+  margin: 3.8px 0 2.9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-10 {
+  margin: 0 6.6px 45.8px 6.6px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.vector-7 {
+  margin-right: 30.1px;
+  width: 39.8px;
+  height: 46.4px;
+}
+.account-password {
+  margin: 6px 0 5.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-15 {
+  margin: 0 16.6px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.container {
+  border-radius: 20px;
+  background: rgba(202, 223, 255, 0.34);
+  margin: 0 0 67.6px 19px;
+  display: flex;
+  flex-direction: column;
+
+  padding: 39px 0 29.2px 24px;
+  width: 80%;
+  
+
+}
+.security-and-privacy {
+  margin-bottom: 37.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.vector {
+  margin-right: 36.5px;
+  width: 44.3px;
+  height: 43.4px;
+}
+.manage-apps {
+  margin: 2.7px 0px 5.7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-8 {
+  margin: 0 14.2px 39.3px 14.2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.vector-1 {
+  margin-right: 35.3px;
+  width: 46.6px;
+  height: 48px;
+}
+.notifications-settings {
+  margin: 5px 0 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-11 {
+  margin: 0 13.1px 36.4px 13.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.vector-2 {
+  margin-right: 36.2px;
+  width: 50.3px;
+  height: 48.5px;
+}
+.privacy-settings {
+  margin: 5.6px 0 7.9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-1 {
+  margin: 0 8.4px 41.1px 8.4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.vector-3 {
+  margin-right: 41.9px;
+  width: 44.2px;
+  height: 45.7px;
+}
+.sign-out-everywhere {
+  margin: 4.1px 0 6.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-14 {
+  margin: 0 9px 43.7px 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.vector-4 {
+  margin-right: 39.9px;
+  width: 46.7px;
+  height: 45.7px;
+}
+.edit-login-methods {
+  margin: 7.6px 0 3.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-4 {
+  margin: 0 8.4px 47.4px 8.4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.vector-5 {
+  margin-right: 39.9px;
+  width: 46.7px;
+  height: 43.4px;
+}
+.set-device-password {
+  margin: 2.4px 0 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-13 {
+  margin: 0 8.4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.container-5 {
+  border-radius: 20px;
+  background: rgba(202, 223, 255, 0.34);
+  position: relative;
+  margin: 0 0 67.6px 19px;
+  display: flex;
+  flex-direction: column;
+  padding: 24.6px 0 0.3px 24px;
+  width: 80%;
+
+}
+.help {
+  margin: 0 5.8px 58.7px 5.8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.vector-6 {
+  margin-right: 47px;
+  width: 53px;
+  height: 53px;
+}
+.rhoo-support {
+  margin: 9.6px 0 8.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-2 {
+  margin-bottom: 20.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.fremovebg-preview-21 {
+  background: url('../assets/images/fremovebg_preview_2.png') 50% / cover no-repeat;
+  margin-right: 47px;
+  width: 53px;
+  height: 56.2px;
+}
+.about {
+  margin: 6.6px 0 14.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JejuGothic';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.container-3 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 100%;
+
+}
+.container-7 {
+  border-radius: 20px;
+  background: rgba(202, 223, 255, 0.34);
+  position: relative;
+  margin-left: 19px;
+  display: flex;
+  flex-direction: column;
+  padding: 42.8px 0 81.4px 23px;
+  width: 80%;
+  margin-bottom: 20px;
+
+}
+.account-setting{
+  background: linear-gradient(90deg, #FFFFFF, #4584E1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+
+}
