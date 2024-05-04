@@ -92,6 +92,7 @@
     align-self: flex-start;
     width: fit-content;
     box-sizing: border-box;
+    justify-content: left;
   }
   .desktop-1 {
     background: #FFFFFF;
@@ -99,4 +100,18 @@
     flex-direction: column;
     box-sizing: border-box;
   }
-  
+  .song1{
+    width: 100px;
+    height: 10px;
+    position: absolute;
+    left: 10px;
+    bottom: 120px;
+  }
+  .song2{
+    width: 110px;
+    height: 10px;
+    position: absolute;
+    left: 120px;
+    bottom: 130px;
+  }
+ 
