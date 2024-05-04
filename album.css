@@ -1,0 +1,331 @@
+.frame-1 .rectangle-1 {
+  opacity: 0.8;
+  border-radius: 20px;
+  border: 1px solid #FFFFFF;
+
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+
+.frame-1 .vector {
+  position: absolute;
+  top: 340px;
+  right: 322px;
+  width: 10px;
+  height: 10px;
+}
+
+.frame-1 .album {
+  position: relative;
+  margin: 0 265.8px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+
+.frame-1 .rectangle-2 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  background: url('rectangle_2.png') 50% / cover no-repeat;
+  margin-right: 27px;
+  width: 361px;
+  height: 230px;
+}
+
+.frame-1 .reminder {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 120px;
+  color: #272929;
+}
+
+.frame-1 .rectangle-3 {
+  border-radius: 30px;
+  background: url('rectangle_3.png') 50% / cover;
+  margin-right: 13px;
+  width: 56px;
+  height: 54px;
+}
+
+.frame-1 .the-weekend {
+  margin: 12px 16px 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Itim';
+  font-weight: 400;
+  font-size: 30px;
+  color: #272929;
+}
+
+.frame-1 .song-48-minutes-9-second {
+  margin: 23px 0 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  color: #272929;
+}
+
+.frame-1 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.frame-1 .vector-1 {
+  position: absolute;
+  right: 166.6px;
+  bottom: 12px;
+  width: 12px;
+  height: 12px;
+}
+
+.frame-1 .container-2 {
+  position: relative;
+  margin-left: 10px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.frame-1 .container-6 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.frame-1 .container-3 {
+  position: relative;
+  margin: 0 48.4px 44px 46px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.frame-1 .vector-2 {
+  width: 13px;
+  height: 16px;
+}
+
+.frame-1 .container-7 {
+  border-radius: 30px;
+  background: #47B5BC;
+  position: relative;
+  margin-right: 24px;
+  display: flex;
+  padding: 14px 15px 14px 16px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+
+.frame-1 .vector-3 {
+  margin: 9px 19px 9px 0;
+  width: 26px;
+  height: 26px;
+}
+
+.frame-1 .vector-4 {
+  margin: 19px 0 22px 0;
+  width: 15px;
+  height: 3px;
+}
+
+.frame-1 .container-4 {
+  display: flex;
+  flex-direction: row;
+  width: 128px;
+  box-sizing: border-box;
+}
+
+.frame-1 .list {
+  margin-right: 11.5px;
+  width: 43.5px;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  color: #272929;
+}
+
+.frame-1 .vector-5 {
+  margin: 11px 0 0.8px 0;
+  width: 16.9px;
+  height: 11.3px;
+}
+
+.frame-1 .container-5 {
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 71.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.frame-1 .container-8 {
+  position: relative;
+  margin: 0 54.1px 9px 36px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 946.9px;
+  box-sizing: border-box;
+}
+
+.frame-1 .title {
+  margin: 0 11.5px 2.8px 0;
+  display: inline-block;
+  width: 882.5px;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  color: #272929;
+}
+
+.frame-1 .vector-6 {
+  margin-top: 1px;
+  width: 30.8px;
+  height: 24.8px;
+}
+
+.frame-1 .container {
+  position: relative;
+  margin: 0 60.3px 7.3px 52px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 924.8px;
+  box-sizing: border-box;
+}
+
+.frame-1 .rectangle-5 {
+  background: #272929;
+  position: relative;
+  margin-bottom: 32px;
+  width: 1037px;
+  height: 1px;
+}
+
+.frame-1 .alone-again-410 {
+  position: relative;
+  margin: 0 47.6px 12px 22px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jacques Francois';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+
+.frame-1 .too-late-359 {
+  position: relative;
+  margin: 0 46.5px 10px 25px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jacques Francois';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+
+.frame-1 .hardest-to-love-331 {
+  position: relative;
+  margin: 0 45.8px 11px 25px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jacques Francois';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+
+.frame-1 .scared-to-live-311 {
+  position: relative;
+  margin: 0 46.5px 9px 25px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jacques Francois';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+
+.frame-1 .heartless-318 {
+  position: relative;
+  margin: 0 46.2px 6px 25px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jacques Francois';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+
+.frame-1 .in-your-eyes-357 {
+  position: relative;
+  margin: 0 46.2px 0 24px;
+  overflow-wrap: break-word;
+  font-family: 'Jacques Francois';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+
+.frame-1 .save-your-tears-335 {
+  position: relative;
+  margin: 0 43px 0 22px;
+  overflow-wrap: break-word;
+  font-family: 'Jacques Francois';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+
+.frame-1 .reminder-309 {
+  position: relative;
+  margin: 0 43.7px 3px 22px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jacques Francois';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+
+.frame-1 .die-for-you-416 {
+  position: relative;
+  margin: 0 42.8px 0 22px;
+  overflow-wrap: break-word;
+  font-family: 'Jacques Francois';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+
+.frame-1 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 104px 36px 38px 12px;
+  width: 1085px;
+  box-sizing: border-box;
+}
